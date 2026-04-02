@@ -1,0 +1,10 @@
+[server]
+headless = true
+enableXsrfProtection = false
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+fastReruns = true
